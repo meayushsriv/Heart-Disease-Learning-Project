@@ -1,0 +1,50 @@
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# Data files
+data/
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.db
+*.sqlite
+*.parquet
+*.feather
+
+# Model files
+*.h5
+*.ckpt
+*.tflite
+*.onnx
+*.pb
+*.pt
+
+# Log files
+*.log
+
+# Compiled files
+*.o
+*.so
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files
+.vscode/
+*.code-workspace
+.idea/
